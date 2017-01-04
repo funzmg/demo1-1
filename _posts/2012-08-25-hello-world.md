@@ -1,7 +1,12 @@
+title: hello
+date: 2015-07-01 22:37:23
+categories:
+  - 日志
+  - 二级目录
+tags:
+  - hello
 ---
-　　layout: default
-　　title: 你好，世界
----
-　　<h2>{{ page.title }}</h2>
-　　<p>我的第一篇文章的第二次</p>
-　　<p>{{ page.date | date_to_string }}</p>
+
+摘要:
+<!--more-->
+正文:我的神呀
